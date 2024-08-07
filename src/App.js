@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Srini - React JS
+          Learn React with Srini
         </a>
       </header>
     </div>
